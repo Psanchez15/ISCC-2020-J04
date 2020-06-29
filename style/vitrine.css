@@ -1,0 +1,61 @@
+@font-face{
+    font-family: "open_sans"; url("open_sans");
+    font-family: nazalization; rec: url ("nazalization.rg")
+}
+body{
+    font-family: "open_sans";
+    font-size: 14px;
+    background-color: #f2f2f2;
+}
+
+header{
+    background-image: url ('C:\Users\Sanchez\Documents\Iseg\ISCC-2020\ISCC-2020\Jour-01\ISCC-2020-J04\texture-header.jpg');
+    height: 150px;
+}
+
+a{
+    color : white
+}
+
+.contenu {
+    margin-left : auto;
+    margin-right: auto;
+    max-width: 810px;
+}
+
+h1{
+    color : #27diff
+    font-family : "nazalization_rg";
+    font-size : 40px
+    text-align: center;
+}
+
+.navigation{
+    display : inline-block;
+    padding-right: 50px;
+    margin : 0px;
+    color: white;
+    background-color: #2e2f30;
+    text-align: right;
+
+    background-color: #2e2f30;
+    text-align: right;
+    vertical-align: middle;
+}
+
+p{
+    color : black;
+    width : 750px;
+    margin : 10px;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    text-shadow: black;
+    text-align: center;
+}
+
+h3{
+    color: #17c1ff;
+}
