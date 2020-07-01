@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "open_sans" ;
+    src : url("../open_sans/OpenSans-Regular.ttf") ;
+}
+@font-face {
+    font-family: "nasalization";
+    src : url("nasalization-rg.ttf");
+}
+
+p {
+font-family: "open_sans";
+    font-size: 14px;
+    background-color: #f2f2f2;
+
+}
+header{
+    background-image: url("texture-header.jpg");
+    height: 150px;
+}
+h1 {
+    font-family: "nasalization";
+    font-size: 40px;
+    color: #27d1ff;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.navigation{
+    display: inline-block;
+    background-color: "#2e2f30";
+    padding-right: 50px;
+    margin: 0px;
+    color: white;
+    background-color: #2e2f30;
+    text-align: right;
+    vertical-align: middle;
+}
+
+.cadre_image img {
+    width: auto;
+}
